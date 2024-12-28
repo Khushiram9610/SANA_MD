@@ -1,5 +1,5 @@
-/*created by Mr Tohid 🕵
-contact me 917849917350 ♻️
+/*created by Mr choudhary🕵
+contact me 916377252603 ♻️
 © Copy coder alert ⚠
 */
 
@@ -35,7 +35,7 @@ const Crypto = require('crypto')
 const path = require('path')
 const prefix = config.PREFIX
 
-const ownerNumber = ['923337468951']
+const ownerNumber = ['916377252603']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
@@ -209,11 +209,11 @@ conn.ev.on('messages.upsert', async (mek) => {
 
         
 //================ownerreact==============
-if(senderNumber.includes("923337468951")){
+if(senderNumber.includes(("916377252603")){
 if(isReact) return
 m.react("👑")
 }
-if(senderNumber.includes("918930358452")){
+if(senderNumber.includes(("916377252603")){
 if(isReact) return
 m.react("👑")
 }
